@@ -1,0 +1,22 @@
+{
+  "name": "@ejshafran/utilities",
+  "version": "1.0.0",
+  "description": "Plenty of utilities for object, arrays and more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jestconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ej-uses-git/utilities.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "ejshafran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ej-uses-git/utilities/issues"
+  },
+  "homepage": "https://github.com/ej-uses-git/utilities#readme"
+}
