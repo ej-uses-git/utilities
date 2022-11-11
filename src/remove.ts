@@ -1,8 +1,4 @@
-/**
- * A function that takes an item from an array (and optionally its index),
- * and determines whether it is a desired item or not.
- */
-type FinderFunction = (arg: any, index?: number) => boolean;
+import { FinderFunction } from '@ejshafran/types';
 
 /**
  * Removes items from an array which match a finder function,

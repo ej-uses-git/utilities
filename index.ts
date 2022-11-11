@@ -1,3 +1,1 @@
-import remove from './src/remove';
-
-export { remove };
+export { default as remove } from './src/remove';
