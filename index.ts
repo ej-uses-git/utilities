@@ -1,1 +1,1 @@
-export { default as remove } from './src/remove';
+export { default as removeFrom } from './src/removeFrom';
